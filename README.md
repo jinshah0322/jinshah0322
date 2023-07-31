@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinay Shah</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate Back-End Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on Developing API using Node Js
-
+- 🔭 I’m currently working on Developing API using Node.js and Express.js
+ 
 - 📫 How to reach me **jinshah0322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href = ""https://nodejs.org/en/docs><img src="" alt="node.js" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
