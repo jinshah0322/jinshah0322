@@ -17,9 +17,7 @@ Backend-focused Software Engineer with experience building AI-powered APIs, micr
 
 ### 🔗 Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/shahjinay0322" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;<a href="https://github.com/jinshah0322" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/shahjinay0322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/jinshah0322"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ---
 
